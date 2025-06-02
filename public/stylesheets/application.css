@@ -1,0 +1,17 @@
+body{
+  background-color: teal;
+}
+
+.big{
+  color:purple;
+  font-size: 48px;
+}
+
+#first{
+  color:yellow;
+}
+
+p.big{
+  color:orange;
+  font-size:35px;
+}
